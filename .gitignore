@@ -1,0 +1,5 @@
+# modulos de Node
+node_modules
+
+# Archivos generados por el programa
+/salida/*txt
